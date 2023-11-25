@@ -30,6 +30,10 @@
   <ItemGroup>
     <Content Include="app.js" />
     <Content Include="package.json" />
+    <Content Include="4kyu_Pyramid_Slide_Down.js">
+      <SubType>Code</SubType>
+      <TestFramework>Jest</TestFramework>
+    </Content>
     <Content Include="README.md" />
     <Content Include="Sum.js">
       <SubType>Code</SubType>
