@@ -1,0 +1,18 @@
+{
+  "name": "java-script-coding-challenges_code-wars",
+  "version": "0.0.0",
+  "description": "JavaScriptCodingChallenges_CodeWars",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0",
+    "jest": "^29.7.0",
+    "jest-editor-support": "^31.1.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "eslintConfig": {}
+}

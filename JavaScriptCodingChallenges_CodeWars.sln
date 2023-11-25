@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "JavaScriptCodingChallenges_CodeWars", "JavaScriptCodingChallenges_CodeWars.njsproj", "{BC8C17E2-AE46-4FCE-A503-BBC21FE0486C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC8C17E2-AE46-4FCE-A503-BBC21FE0486C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8C17E2-AE46-4FCE-A503-BBC21FE0486C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8C17E2-AE46-4FCE-A503-BBC21FE0486C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8C17E2-AE46-4FCE-A503-BBC21FE0486C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4901559E-5F15-42E8-9ED2-EEAE48884FA5}
+	EndGlobalSection
+EndGlobal
