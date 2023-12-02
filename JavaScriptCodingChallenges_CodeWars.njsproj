@@ -28,6 +28,10 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="6kyu_Multi_tap_Keypad_Text_Entry_on_an_Old_Mobile_Phone.js">
+      <SubType>Code</SubType>
+      <TestFramework>Jest</TestFramework>
+    </Content>
     <Content Include="app.js" />
     <Content Include="package.json" />
     <Content Include="4kyu_Pyramid_Slide_Down.js">
